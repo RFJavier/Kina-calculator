@@ -23,3 +23,16 @@ y el proyecto sigue [Semantic Versioning](https://semver.org/lang/es/).
 - Origen de material (`tienda` / `mercado` / `farmeo`) y porcentaje de doble bounty en recetas.
 - Validaciones: nombre, cantidades, precio, materiales mínimos, auto-referencia y ciclos de recetas.
 - Diseño mobile-first y menú de navegación desplegable.
+
+## [0.1.1] - 2026-10-08
+
+### Agregado
+
+- Se agregó un panel lateral (Drawer) de soporte con un enlace a PayPal para recibir donaciones voluntarias.
+- Se incorporaron textos informativos en la sección de soporte para aclarar que las contribuciones son opcionales y no otorgan funciones adicionales ni ventajas dentro de la aplicación.
+- Se agregó la sección Desarrollo al menú principal, con enlaces al repositorio de GitHub y al archivo de licencia del proyecto.
+
+### Mejorado
+
+- Se añadieron estilos para el contenido del panel de soporte y su botón de donación en src/style.css.
+- Se actualizó la información de derechos de autor en el archivo LICENSE, incluyendo el año y el titular correspondientes.
